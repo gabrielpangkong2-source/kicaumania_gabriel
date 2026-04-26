@@ -1,6 +1,8 @@
 
 # tutor pake coy
 
+**Instal Pyhton 3.10/3.11**
+
 1. **Download/Clone** repo ini .
 2. Instal library via terminal:
    ```bash
