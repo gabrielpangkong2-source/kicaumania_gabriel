@@ -1,7 +1,7 @@
 
-# cara pake
+# tutor pake coy
 
-1. **Download/Clone** repo ini ke laptop kamu.
+1. **Download/Clone** repo ini .
 2. Instal library via terminal:
    ```bash
    pip install opencv-python mediapipe pygame
