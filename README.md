@@ -17,4 +17,4 @@
    ```
 
 # anjayy programmer handal
-Dibuat dengan oleh [boybands](https://github.com/gabrielpangkong2-source)
+Dibuat dengan oleh [gabs](https://github.com/gabrielpangkong2-source)
