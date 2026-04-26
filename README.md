@@ -19,4 +19,4 @@
    ```
 
 # anjayy programmer handal
-Dibuat dengan oleh [gabs](https://github.com/gabrielpangkong2-source)
+Dibuat oleh [gabs](https://github.com/gabrielpangkong2-source)
